@@ -14,7 +14,7 @@ function App() {
     <>
       <Router>
         <div className="flex max-md:block">
-          <Navbar />
+          <Navbar />  
           <Home />
           <div className="h-screen w-5/6 overflow-y-auto px-6 py-4 bg-white max-md:w-full">
             <Routes>
