@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ORIC/static/css/main.49f9d65f.css",
+    "main.js": "/ORIC/static/js/main.cebd0fcd.js",
+    "static/media/project-2.1.png": "/ORIC/static/media/project-2.1.c48f0ae72c49625f8fa6.png",
+    "static/media/ERD.png": "/ORIC/static/media/ERD.a3612f9038cd7919fb5c.png",
+    "static/media/project-3.4.jpg": "/ORIC/static/media/project-3.4.f563d7ea257c757e16c4.jpg",
+    "static/media/project-3.2.jpg": "/ORIC/static/media/project-3.2.0a4b6dedd7c843abb6c5.jpg",
+    "static/media/SDMeth.jpg": "/ORIC/static/media/SDMeth.8262c7638b5f88389537.jpg",
+    "static/media/project-3.3.jpg": "/ORIC/static/media/project-3.3.42fe3a23d88309d3ff39.jpg",
+    "static/media/project-1.2.png": "/ORIC/static/media/project-1.2.5f53df03fd74bf5c011b.png",
+    "static/media/project-3.1.jpg": "/ORIC/static/media/project-3.1.cc52e21ea175efa64837.jpg",
+    "static/media/project-1.png": "/ORIC/static/media/project-1.3d4650d8648c5387fbb0.png",
+    "static/media/project-2.2.png": "/ORIC/static/media/project-2.2.8c9fbbb984c7afd65d1c.png",
+    "static/media/Logo_Alvaro.png": "/ORIC/static/media/Logo_Alvaro.8e2245d9900f40f6f8eb.png",
+    "static/media/github.png": "/ORIC/static/media/github.ff2648078e819f6a9666.png",
+    "static/media/BINUS.jpg": "/ORIC/static/media/BINUS.9ef6cd60be7000d52059.jpg",
+    "static/media/project-1.3.png": "/ORIC/static/media/project-1.3.2f3eecad01546b306ad0.png",
+    "static/media/WA.webp": "/ORIC/static/media/WA.816e053c4fa8f17d002f.webp",
+    "static/media/Logo_BNEC.png": "/ORIC/static/media/Logo_BNEC.d3da6b4414f0b3c8904b.png",
+    "static/media/Gmail.png": "/ORIC/static/media/Gmail.4f10d6dbd55f9ac499cb.png",
+    "static/media/Logo_HIMTI.png": "/ORIC/static/media/Logo_HIMTI.ea968883914e23ca850d.png",
+    "static/media/SMP.jfif": "/ORIC/static/media/SMP.a8c65cfc4933452333ee.jfif",
+    "static/media/SMAS.jfif": "/ORIC/static/media/SMAS.9b008a6412d47f842bd8.jfif",
+    "static/media/LINE.webp": "/ORIC/static/media/LINE.36efa45252d89a27b683.webp",
+    "index.html": "/ORIC/index.html",
+    "main.49f9d65f.css.map": "/ORIC/static/css/main.49f9d65f.css.map",
+    "main.cebd0fcd.js.map": "/ORIC/static/js/main.cebd0fcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49f9d65f.css",
+    "static/js/main.cebd0fcd.js"
+  ]
+}
