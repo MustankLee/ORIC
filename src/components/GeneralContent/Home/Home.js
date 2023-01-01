@@ -45,7 +45,7 @@ class Home extends Component {
           <p>
             Welcome to my personal website, this website contains general
             information about me, yeeee haaa! Go explore, hope you guys love it.
-            This website takes about a weeks to make it which I start from
+            This website takes about 3 days to make it which I start from
             design its UI/UX, informations to show, and framework to be used. I
             also want to inform that this website is already responsive which
             means the component of the website will fit based on your screen
