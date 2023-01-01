@@ -1,7 +1,7 @@
 import "./App.css";
 // import Users from './Users.js'
 import Navbar from "./components/Navbar/Navbar.js";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import Home from "./components/GeneralContent/Home/Home.js";
 import Contact from "./components/GeneralContent/Contact/Contact.js";
 import About from "./components/GeneralContent/About/About.js";
@@ -17,6 +17,7 @@ function App() {
           <Navbar />
           <div className="h-screen w-5/6 overflow-y-auto px-6 py-4 bg-white max-md:w-full">
             <Routes>
+              <Route path="/" element={<Navigate to="/home"/>}></Route>
               <Route exact path="/home" element={<Home />}></Route>
               <Route exact path="/about" element={<About />}></Route>
               <Route exact path="/contact" element={<Contact />}></Route>
