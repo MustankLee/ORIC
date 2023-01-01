@@ -1,0 +1,13 @@
+.resp-crd-hm {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.resp-crd-hm>div {
+    flex: 1 1 300px;
+}
+
+.tr {
+    transition: 850ms;
+}

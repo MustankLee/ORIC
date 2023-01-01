@@ -1,0 +1,9 @@
+.resp-crd-skl {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.resp-crd-skl>div {
+    flex: 1 1 50px;
+}

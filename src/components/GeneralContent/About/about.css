@@ -1,0 +1,9 @@
+.resp-crd {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.resp-crd>div {
+    flex: 1 1 200px;
+}

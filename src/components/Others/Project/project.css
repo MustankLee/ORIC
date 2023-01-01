@@ -1,0 +1,46 @@
+.anim {
+    -webkit-animation: up-down 1s infinite alternate;
+    animation: up-down 1s infinite alternate;
+}
+
+.shdow {
+    box-shadow: 1.5px 1.5px 0px 3px rgb(0, 0, 0);
+    transition-duration: 0.5s;
+    -webkit-transition-duration: 0.5s;
+}
+
+.btn-shdow {
+    transition-duration: 0.5s;
+    -webkit-transition-duration: 0.5s;
+    box-shadow: 1px 1.5px 0px 3px black;
+    background-color: rgb(250 204 21);
+}
+
+.btn-shdow:hover {
+    transition-duration: 0.5s;
+    -webkit-transition-duration: 0.5s;
+    box-shadow: -1px -1px 0px 2px black;
+    background-color: rgb(255, 237, 165);
+}
+
+ html {
+    scroll-behavior: smooth !important;
+ }
+
+@keyframes up-down {
+    0% {
+        transform: translateY(20px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+@-webkit-keyframes up-down {
+    0% {
+        transform: translateY(20px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
