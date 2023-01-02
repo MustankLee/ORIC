@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Oric/static/css/main.f9c9dbb1.css",
-    "main.js": "/Oric/static/js/main.518cb5c8.js",
+    "main.js": "/Oric/static/js/main.3ce01a6f.js",
     "static/media/project-2.1.png": "/Oric/static/media/project-2.1.c48f0ae72c49625f8fa6.png",
     "static/media/ERD.png": "/Oric/static/media/ERD.a3612f9038cd7919fb5c.png",
     "static/media/project-3.4.jpg": "/Oric/static/media/project-3.4.f563d7ea257c757e16c4.jpg",
@@ -25,10 +25,10 @@
     "static/media/LINE.webp": "/Oric/static/media/LINE.36efa45252d89a27b683.webp",
     "index.html": "/Oric/index.html",
     "main.f9c9dbb1.css.map": "/Oric/static/css/main.f9c9dbb1.css.map",
-    "main.518cb5c8.js.map": "/Oric/static/js/main.518cb5c8.js.map"
+    "main.3ce01a6f.js.map": "/Oric/static/js/main.3ce01a6f.js.map"
   },
   "entrypoints": [
     "static/css/main.f9c9dbb1.css",
-    "static/js/main.518cb5c8.js"
+    "static/js/main.3ce01a6f.js"
   ]
 }
