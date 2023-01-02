@@ -7,7 +7,7 @@ export default function () {
         <p className="font-semibold"> © 2023 Rico Susanto | ORIC</p>
         <p className=""> Don't hesitate to contact me if you have any questions</p>
       </div>
-      <h2 className="text-center w-1/2 font-black text-blue-500 max-md:hidden">ORIC</h2>
+      <h2 className="text-center w-1/2 font-black text-blue-500 max-md:hidden">RICO</h2>
     </div>
   );
 }
