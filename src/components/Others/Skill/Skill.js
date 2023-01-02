@@ -114,7 +114,7 @@ export default function Skills() {
               </p>
               <p className="flex items-center my-2 bg-white drop-shadow-lg p-1 rounded-md w-max">
                 <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
-                Critial Thinking
+                Critical Thinking
               </p>
               <p className="flex items-center my-2 bg-white drop-shadow-lg p-1 rounded-md w-max">
                 <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
