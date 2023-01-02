@@ -52,7 +52,7 @@ export default function Projects() {
             input product to local database, delete and load data from local
             database, especially using combination of the color palettes and
             glassmorphism style in creating the website and also this website is
-            responsive. Check out the code by click the below button.
+            responsive.
           </p>
           <div className="my-3 flex gap-5 max-md:block">
             <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
@@ -111,7 +111,7 @@ export default function Projects() {
         </div>
         <a href="https://github.com/MustankLee/GSLC_2440057363_RICO_SUSANTO_Feature_Blade_Website_Programming" className="w-full flex justify-end cursor-pointer">
           <p className="p-2 rounded-md btn-shdow font-semibold bg-white">
-             Check out the code
+             View Code
           </p>
         </a>
       </div>
@@ -184,7 +184,7 @@ export default function Projects() {
         </div>
         <a href="https://github.com/MustankLee/WebsiteView_2" className="w-full flex justify-end cursor-pointer">
           <p className="p-2 rounded-md btn-shdow font-semibold bg-white">
-             Check out the code
+             View Code
           </p>
         </a>
       </div>
@@ -232,7 +232,7 @@ export default function Projects() {
         </div>
         <a href="https://gitfront.io/r/MustankLee/XBxMHcWtHiv7/SQL-Simulation/" className="w-full flex justify-end cursor-pointer">
           <p className="p-2 rounded-md btn-shdow font-semibold bg-white">
-             Check out the code
+             View Code
           </p>
         </a>
       </div>
