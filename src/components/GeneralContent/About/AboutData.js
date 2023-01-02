@@ -13,7 +13,7 @@ export const AboutData = [
         data: {
             name: "HIMTI",
             logo: Himti,
-            desc: "I Joined as a activist at commission 1 programming class division for a year (Jan 2021 - Mar 2022).",
+            desc: "I Joined as an activist at commission 1 programming class division for a year (Jan 2021 - Mar 2022).",
             act: "Committee of Himti Workshop 2021, POWER (Protect Our Website)"
         }
     }, 
