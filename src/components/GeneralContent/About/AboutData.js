@@ -48,7 +48,7 @@ export const AboutData = [
         data: {
             name: "SMPs Methodist Bangko",
             logo: Smp,
-            year: "2015 - 2017"
+            year: "2014 - 2017"
         }
     },
     {
