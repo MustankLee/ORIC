@@ -10,7 +10,7 @@ export default function About() {
       <div className="my-5 flex max-md:block">
         {/* Expereince */}
         <div className="w-1/2 pr-3 max-md:w-full max-md:pr-0">
-          <div className="outline outline-blue-500 rounded-md py-1 px-2">
+          <div className="outline outline-blue-500 rounded-md max-md:rounded-md py-1 px-2">
             <h3 className="font-bold text-blue-500">Experience</h3>
             {/* Detail Exp */}
             {AboutData.filter((item) => item.category.includes("exp")).map(
