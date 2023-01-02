@@ -12,12 +12,11 @@ import Footer from "./components/Footer/Footer.js";
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="/Oric">
         <div className="flex max-md:block">
           <Navbar />  
           <div className="h-screen w-5/6 overflow-y-auto px-6 py-4 bg-white max-md:w-full">
             <Routes>
-              {/* <Route path="/" element={<Navigate to="/home"/>}></Route> */}
               <Route exact path="/*" element={<Home />}></Route>
               <Route exact path="/about" element={<About />}></Route>
               <Route exact path="/contact" element={<Contact />}></Route>
