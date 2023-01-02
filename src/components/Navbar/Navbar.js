@@ -19,7 +19,7 @@ export default function Navbar() {
         <div className=" text-black">
           <h2 className="bg-blue-500 p-1 rounded-md text-white" onClick={show}><HiOutlineMenuAlt2 /></h2>
         </div>
-        <h2 className="text-center font-black text-blue-500">ORIC</h2>
+        <h2 className="text-center font-black text-blue-500">RICO</h2>
       </div>
       <nav className={display ?  "bg-white h-screen drop-shadow-2xl w-1/6 p-4 max-md:absolute max-md:z-50 max-md:w-full max-md:left-0 tr" : "bg-white h-screen drop-shadow-2xl w-1/6 p-4 max-md:w-full max-md:z-50 max-md:-left-full max-md:absolute tr" }>
         <h2 className="text-center font-black text-blue-500 max-md:hidden">RICO</h2>
