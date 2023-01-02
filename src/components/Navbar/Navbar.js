@@ -22,7 +22,7 @@ export default function Navbar() {
         <h2 className="text-center font-black text-blue-500">ORIC</h2>
       </div>
       <nav className={display ?  "bg-white h-screen drop-shadow-2xl w-1/6 p-4 max-md:absolute max-md:z-50 max-md:w-full max-md:left-0 tr" : "bg-white h-screen drop-shadow-2xl w-1/6 p-4 max-md:w-full max-md:z-50 max-md:-left-full max-md:absolute tr" }>
-        <h2 className="text-center font-black text-blue-500 max-md:hidden">ORIC</h2>
+        <h2 className="text-center font-black text-blue-500 max-md:hidden">RICO</h2>
         <div className="mt-2 p-3">
           {NavData.map((item, index) => {
             return (
