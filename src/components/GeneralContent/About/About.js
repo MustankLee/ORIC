@@ -68,7 +68,7 @@ export default function About() {
             className="w-full cursor-pointer mt-14 mb-4" target="_blank"
           >
             <p className="text-center p-2 rounded-md btn-shdow font-semibold bg-white">
-              Check out my other portfolio
+              Another Portfolio
             </p>
           </a>
           </div>
