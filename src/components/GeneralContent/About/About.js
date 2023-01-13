@@ -64,7 +64,7 @@ export default function About() {
               }
             )}
           <a
-            href="https://spektate999w.github.io/Portfolio/HTML/home.html"
+            href="https://mustanklee.github.io/Portfolio/HTML/home.html"
             className="w-full cursor-pointer mt-14 mb-4" target="_blank"
           >
             <p className="text-center p-2 rounded-md btn-shdow font-semibold bg-white">
