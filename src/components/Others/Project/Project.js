@@ -45,18 +45,21 @@ export default function Projects() {
         </div>
         <div className="text-black">
           <h3 className="font-semibold mt-2">
-            Local Host Website (Laravel Framework)
+            Recycle Hops 2
           </h3>
           <p className="text-justify">
-            Local host website with high funcionality which allow users can do
-            input product to local database, delete and load data from local
-            database, especially using combination of the color palettes and
-            glassmorphism style in creating the website and also this website is
-            responsive.
+            Recycle Hops 2 is an intuitive application designed for sellers to 
+            efficiently manage and publish their products. This platform empowers users 
+            to easily add new products and remove items as needed. W
+            ith a user-friendly interface, 
+            Recycle Hops 2 simplifies product management, allowing sellers to keep their 
+            inventory current and accessible. Whether adding new entries, 
+            the application ensures a seamless experience for maintaining a dynamic 
+            and organized product catalog.
           </p>
           <div className="my-3 flex gap-5 max-md:block">
             <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
-              <h3 className="font-semibold">Language Use</h3>
+              <h3 className="font-semibold">Technology</h3>
               <li className="flex font-semibold items-center">
                 <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
                 HTML
@@ -75,7 +78,7 @@ export default function Projects() {
               </li>
             </div>
             <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
-              <h3 className="font-semibold">Framework Use</h3>
+              <h3 className="font-semibold">Framework</h3>
               <li className="flex font-semibold items-center">
                 <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
                 Bootstrap 5
@@ -86,14 +89,14 @@ export default function Projects() {
               </li>
             </div>
             <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
-              <h3 className="font-semibold">Local Storage</h3>
+              <h3 className="font-semibold">Local Web Server</h3>
               <li className="flex font-semibold items-center">
                 <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
                 XAMPP
               </li>
             </div>
             <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
-              <h3 className="font-semibold">Operation</h3>
+              <h3 className="font-semibold">Action</h3>
               <li className="flex font-semibold items-center">
                 <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
                 Load Data
@@ -128,16 +131,15 @@ export default function Projects() {
         </div>
         <div className="text-black">
           <h3 className="font-semibold mt-2">
-            Local Host Website (Laravel Framework)
+            Recycle Hops 1
           </h3>
           <p className="text-justify">
-            Local host website with e-commerce theme that selling about recycle
-            product, the website allows user load data from the local
-            storage/database.
+            Recycle Hops 1 is a website with e-commerce theme that selling about recycle
+            product, the website allows user load data.
           </p>
           <div className="my-3 flex gap-5 max-md:block">
             <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
-              <h3 className="font-semibold">Language Use</h3>
+              <h3 className="font-semibold">Technology</h3>
               <li className="flex font-semibold items-center">
                 <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
                 HTML
@@ -156,7 +158,7 @@ export default function Projects() {
               </li>
             </div>
             <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
-              <h3 className="font-semibold">Framework Use</h3>
+              <h3 className="font-semibold">Framework</h3>
               <li className="flex font-semibold items-center">
                 <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
                 Bootstrap 5
@@ -167,14 +169,14 @@ export default function Projects() {
               </li>
             </div>
             <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
-              <h3 className="font-semibold">Local Storage</h3>
+              <h3 className="font-semibold">Local Web Server</h3>
               <li className="flex font-semibold items-center">
                 <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
                 XAMPP
               </li>
             </div>
             <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
-              <h3 className="font-semibold">Operation</h3>
+              <h3 className="font-semibold">Action</h3>
               <li className="flex font-semibold items-center">
                 <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
                 Load Data
@@ -203,14 +205,14 @@ export default function Projects() {
           </p>
           <div className="my-3 flex gap-5 max-md:block">
             <div className="w-1/2 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
-              <h3 className="font-semibold">Language Use</h3>
+              <h3 className="font-semibold">Technology</h3>
               <li className="flex font-semibold items-center">
                 <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
                 SQL
               </li>
             </div>
             <div className="w-1/2 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
-              <h3 className="font-semibold">Query</h3>
+              <h3 className="font-semibold">Action</h3>
               <li className="flex font-semibold items-center">
                 <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
                 DDL
@@ -245,17 +247,13 @@ export default function Projects() {
           <img src={Pro_10} alt="" className="w-1/4 rounded-md" />
         </div>
         <div className="text-black">
-          <h3 className="font-semibold mt-2">UI/UX Project</h3>
+          <h3 className="font-semibold mt-2">Fork & Spoon</h3>
           <p className="text-justify">
-            I have created user interface and user
-            experience of ordering restaurant application. These UI/UX are
-            created from figma (web-based application) which need to be designed
-            for two side users (customers and owner restaurants), for better
-            experience you can try out the result by click below button.{" "}
+            The user interface and user experience of the restaurant ordering application have been meticulously crafted using Figma, a web-based design tool. This design caters to two distinct user groups: customers and restaurant owners. For an enhanced experience, you are invited to explore the interface and functionality by clicking the button below.
           </p>
           <div className="my-3 flex gap-5 max-md:block">
             <div className="w-1/2 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
-              <h3 className="font-semibold">Software Use</h3>
+              <h3 className="font-semibold">Technology</h3>
               <li className="flex font-semibold items-center">
                 <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
                 Figma

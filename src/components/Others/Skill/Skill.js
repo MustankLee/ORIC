@@ -172,7 +172,7 @@ export default function Skills() {
           </div>
           <div className="bg-white drop-shadow-lg w-1/5 p-2 rounded-md max-md:w-full max-md:my-2">
             <h3 className="font-bold">English</h3>
-            <p className="bold">Advanced</p>
+            <p className="bold">Intermediate</p>
           </div>
           <div className="bg-white drop-shadow-lg w-1/5 p-2 rounded-md max-md:w-full max-md:my-2">
             <h3 className="font-bold">Mandarin</h3>

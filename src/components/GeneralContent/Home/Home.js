@@ -43,23 +43,21 @@ class Home extends Component {
         </div>
         <div className="mt-2 text-justify">
           <p>
-            Welcome to my personal website, this website contains general
-            information about me, yeeee haaa! Go explore, hope you guys love it.
-            This website took about 3 days to make it which I started from
-            design its UI/UX, informations to show, and framework to be used. I
-            also want to inform that this website is already responsive which
-            means the component of the website will fit based on your screen
-            resolution, so you will get the different expereience when you are
-            using the different device with different screen resolution.
-            Additional information, this website is made with framework ReactJS
-            and tailwind CSS for its styling.
+            Rico Susanto was born in Bagansiapiapi. 
+            He completed his undergraduate education in 
+            Computer Science at Binus University in 2024. Rico began his studies at 
+            Binus University in 2020, majoring in Information Technology with a 
+            specialization in databases. Driven by a deep passion for understanding 
+            and managing data, he developed a strong foundation in database design, 
+            optimization, and management through rigorous coursework and projects.
           </p>
           <br />
           <p>
-            Oooups, I almost forgot to introduce myself, Hello everyone! My name
-            is Rico Susanto, you guys can call me Rico, Ric, or Co. Right now,
-            I'm a Computer Science student at Bina Nusantara University, I'm
-            very interested in position Full Stack Developer.
+            Rico's dedication to data management is crucial for powering modern 
+            applications and services. Throughout his academic journey, he equipped 
+            himself with the skills to handle complex data challenges. He is excited 
+            to contribute to innovative solutions in the field of database technology 
+            while continuously expanding his knowledge and expertise.
           </p>
         </div>
 

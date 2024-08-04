@@ -13,8 +13,8 @@ export const AboutData = [
         data: {
             name: "HIMTI",
             logo: Himti,
-            desc: "I Joined as an activist at commission 1 programming class division for a year (Jan 2021 - Mar 2022).",
-            act: "Committee of Himti Workshop 2021, POWER (Protect Our Website)"
+            desc: "Joined as an activist at Commission 1 Programming Class Division for one year, from January 2021 to March 2022.",
+            act: "Committee of HIMTI Workshop 2021, POWER (Protect Our Website)",
         }
     }, 
     {
@@ -22,7 +22,7 @@ export const AboutData = [
         data: {
             name: "BNEC",
             logo: Bnec,
-            desc: "I Joined as a member in BNEC (Bina Nusantara English Club) for period 2021",
+            desc: "Joined as a member in BNEC (Bina Nusantara English Club) for period 2021",
             act: "Participate english conversation class"
         }
     }, 
@@ -31,7 +31,7 @@ export const AboutData = [
         data: {
             name: "Alvaro Education Center",
             logo: Alvaro,
-            desc: "Becomes an assistant at design 1 class for 2 years which helps students improving they design skills",
+            desc: "Becomes an assistant at design class for 2 years which helps students improving design skills",
             act: "Assist in solving design graphic problem"
         }
     }, 
@@ -64,7 +64,7 @@ export const AboutData = [
         data: {
             name: "Bina Nusantara University",
             logo: binus,
-            year: "2020 - Present"
+            year: "2020 - 2024"
         }
     },
 ]
