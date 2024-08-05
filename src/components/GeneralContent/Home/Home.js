@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import "./home.css";
 import { HomeData } from "./HomeData.js";
-import { DiDatabase } from "react-icons/di";
 
 class Home extends Component {
   constructor() {
@@ -41,24 +40,26 @@ class Home extends Component {
             <p className="text-xs w-1/2 text-center max-md:hidden">{this.state.currTime}</p>
           </div>
         </div>
-        <div className="mt-2 text-justify">
-          <p>
-            Rico Susanto was born in Bagansiapiapi. 
-            He completed his undergraduate education in 
-            Computer Science at Binus University in 2024. Rico began his studies at 
-            Binus University in 2020, majoring in Information Technology with a 
-            specialization in databases. Driven by a deep passion for understanding 
-            and managing data, he developed a strong foundation in database design, 
-            optimization, and management through rigorous coursework and projects.
-          </p>
-          <br />
-          <p>
-            Rico's dedication to data management is crucial for powering modern 
-            applications and services. Throughout his academic journey, he equipped 
-            himself with the skills to handle complex data challenges. He is excited 
-            to contribute to innovative solutions in the field of database technology 
-            while continuously expanding his knowledge and expertise.
-          </p>
+        <div className="mt-8 w-full flex">
+          <div className="text-justify">
+            <p>
+                Rico Susanto was born in Bagansiapiapi. 
+                He completed his undergraduate education in 
+                Computer Science at Binus University in 2024. Rico began his studies at 
+                Binus University in 2020, majoring in Information Technology with a 
+                specialization in databases. Driven by a deep passion for understanding 
+                and managing data, he developed a strong foundation in database design, 
+                optimization, and management through rigorous coursework and projects.
+              </p>
+              <br />
+              <p>
+                Rico's dedication to data management is crucial for powering modern 
+                applications and services. Throughout his academic journey, he equipped 
+                himself with the skills to handle complex data challenges. He is excited 
+                to contribute to innovative solutions in the field of database technology 
+                while continuously expanding his knowledge and expertise.
+              </p>
+          </div>
         </div>
 
         <h3 className="mt-8 outline outline-blue-500  text-blue-500 rounded-md p-1 font-black">Expertise</h3>
