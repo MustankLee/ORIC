@@ -6,8 +6,18 @@ import Sd from "../../Assets/SDMeth.jpg";
 import Smp from "../../Assets/SMP.jfif";
 import Sma from "../../Assets/SMAS.jfif";
 import binus from "../../Assets/BINUS.jpg"
+import Ids from "../../Assets/IDS Logo.jpeg"
 
 export const AboutData = [
+    {
+        category: "exp",
+        data: {
+            name: "PT Inovasi Daya Solusi",
+            logo: Ids,
+            desc: "Backend Developer Intern, from February 2023 to February 2024",
+            act: "Developing Java based APIs for web & services, applying desing pattern for maintainable code, optimizing backend systems",
+         }
+    }, 
     {
         category: "exp",
         data: {
