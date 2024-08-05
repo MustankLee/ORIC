@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Oric/static/css/main.f9c9dbb1.css",
-    "main.js": "/Oric/static/js/main.7f856adc.js",
+    "main.css": "/Oric/static/css/main.d139a05b.css",
+    "main.js": "/Oric/static/js/main.f3c2e0c2.js",
     "static/media/project-2.1.png": "/Oric/static/media/project-2.1.c48f0ae72c49625f8fa6.png",
     "static/media/ERD.png": "/Oric/static/media/ERD.a3612f9038cd7919fb5c.png",
     "static/media/project-3.4.jpg": "/Oric/static/media/project-3.4.f563d7ea257c757e16c4.jpg",
@@ -24,11 +24,11 @@
     "static/media/SMAS.jfif": "/Oric/static/media/SMAS.9b008a6412d47f842bd8.jfif",
     "static/media/LINE.webp": "/Oric/static/media/LINE.36efa45252d89a27b683.webp",
     "index.html": "/Oric/index.html",
-    "main.f9c9dbb1.css.map": "/Oric/static/css/main.f9c9dbb1.css.map",
-    "main.7f856adc.js.map": "/Oric/static/js/main.7f856adc.js.map"
+    "main.d139a05b.css.map": "/Oric/static/css/main.d139a05b.css.map",
+    "main.f3c2e0c2.js.map": "/Oric/static/js/main.f3c2e0c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9c9dbb1.css",
-    "static/js/main.7f856adc.js"
+    "static/css/main.d139a05b.css",
+    "static/js/main.f3c2e0c2.js"
   ]
 }
