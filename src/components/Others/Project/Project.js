@@ -12,6 +12,18 @@ import Pro_7 from "../../Assets/ERD.png";
 import Pro_8 from "../../Assets/project-1.png";
 import Pro_9 from "../../Assets/project-1.2.png";
 import Pro_10 from "../../Assets/project-1.3.png";
+import Pro_11 from "../../Assets/Project-4.1.jpeg";
+import Pro_12 from "../../Assets/Project-4.2.jpeg";
+import Pro_13 from "../../Assets/Project-4.3.jpeg";
+import Pro_14 from "../../Assets/Project-4.4.jpeg";
+import Pro_15 from "../../Assets/Project-5.1.jpeg";
+import Pro_16 from "../../Assets/Project-5.2.jpeg";
+import Pro_17 from "../../Assets/Project-5.3.jpeg";
+import Pro_18 from "../../Assets/Project-5.4.jpeg";
+import Pro_19 from "../../Assets/Project-6.1.jpeg";
+import Pro_20 from "../../Assets/Project-6.2.jpeg";
+import Pro_21 from "../../Assets/Project-6.3.jpeg";
+import Pro_22 from "../../Assets/Project-6.4.jpeg";
 
 export default function Projects() {
   return (
@@ -25,6 +37,295 @@ export default function Projects() {
       >
         <BsArrowUpSquareFill />
       </a>
+
+      <div className="bg-blue-100 drop-shadow-md rounded-md p-3 mt-5 mb-10">
+        <div className="flex gap-4">
+          <div>
+            <img src={Pro_19} alt="" className="w-screen rounded-md" />
+          </div>
+          <div>
+            <img src={Pro_20} alt="" className="w-screen rounded-md" />
+          </div>
+        </div>
+        <div className="h-4"></div>
+        <div className="flex gap-4">
+          <div>
+            <img src={Pro_21} alt="" className="w-screen rounded-md" />
+          </div>
+          <div>
+            <img src={Pro_22} alt="" className="w-screen rounded-md" />
+          </div>
+        </div>
+        <div className="text-black">
+          <h3 className="font-semibold mt-2">
+            Event Organizer Web App
+          </h3>
+          <p className="text-justify">
+          The Event Organizer Website Application is a specially designed web application aimed at 
+          addressing the challenges faced by event service providers. The application is divided into two 
+          sections. The first section provides information about the services offered and enables monitoring 
+          of the progress status of event projects managed by the event organizer. The second section is 
+          intended for internal use by event organizers, focusing on project management, service management, 
+          employee scheduling, automated event project report generation, and tracking the progress steps 
+          during event project execution.
+          </p>
+          <div className="my-3 flex gap-5 max-md:block">
+            <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Technology</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                HTML
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                CSS
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                JavaScript
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                PHP
+              </li>
+            </div>
+            <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Framework</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Tailwind CSS
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Laravel
+              </li>
+            </div>
+            <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Local Web Server</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                XAMPP
+              </li>
+            </div>
+            <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Action</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Load Data
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Delete Data
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Insert Data
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Update Data
+              </li>
+            </div>
+          </div>
+        </div>
+        <a href="https://github.com/MustankLee/event-organizer-web-app" className="w-full flex justify-end cursor-pointer">
+          <p className="p-2 rounded-md btn-shdow font-semibold bg-white">
+             View Code
+          </p>
+        </a>
+      </div>
+
+      <div className="bg-blue-100 drop-shadow-md rounded-md p-3 mt-5 mb-10">
+        <div className="flex gap-4">
+          <div>
+            <img src={Pro_11} alt="" className="w-screen rounded-md" />
+          </div>
+          <div>
+            <img src={Pro_12} alt="" className="w-screen rounded-md" />
+          </div>
+        </div>
+        <div className="h-4"></div>
+        <div className="flex gap-4">
+          <div>
+            <img src={Pro_13} alt="" className="w-screen rounded-md" />
+          </div>
+          <div>
+            <img src={Pro_14} alt="" className="w-screen rounded-md" />
+          </div>
+        </div>
+        <div className="text-black">
+          <h3 className="font-semibold mt-2">
+            Travel IND
+          </h3>
+          <p className="text-justify">
+          Travel IND is a website that provides users with comprehensive information about popular tourist 
+          destinations across Indonesia. Users can explore a curated list of top travel spots, complete 
+          with detailed information on locations, pricing, and operational hours. The site also features 
+          reviews from other travelers, allowing users to read about others' experiences. Additionally, 
+          users can contribute by leaving their own reviews, making it a valuable resource for planning 
+          trips and discovering the best places to visit in Indonesia.
+          </p>
+          <div className="my-3 flex gap-5 max-md:block">
+            <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Technology</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                HTML
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                CSS
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                JavaScript
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                PHP
+              </li>
+            </div>
+            <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Framework</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Bootstrap 5
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Laravel
+              </li>
+            </div>
+            <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Local Web Server</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                XAMPP
+              </li>
+            </div>
+            <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Action</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Load Data
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Delete Data
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Insert Data
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Update Data
+              </li>
+            </div>
+          </div>
+        </div>
+        <a href="https://github.com/MustankLee/TravelIND" className="w-full flex justify-end cursor-pointer">
+          <p className="p-2 rounded-md btn-shdow font-semibold bg-white">
+             View Code
+          </p>
+        </a>
+      </div>
+
+      
+      <div className="bg-blue-100 drop-shadow-md rounded-md p-3 mt-5 mb-10">
+        <div className="flex gap-4">
+          <div>
+            <img src={Pro_16} alt="" className="w-screen rounded-md" />
+          </div>
+          <div>
+            <img src={Pro_15} alt="" className="w-screen rounded-md" />
+          </div>
+        </div>
+        <div className="h-4"></div>
+        <div className="flex gap-4">
+          <div>
+            <img src={Pro_17} alt="" className="w-screen rounded-md" />
+          </div>
+          <div>
+            <img src={Pro_18} alt="" className="w-screen rounded-md" />
+          </div>
+        </div>
+        <div className="text-black">
+          <h3 className="font-semibold mt-2">
+            Recycon
+          </h3>
+          <p className="text-justify">
+          Recycon is a website dedicated to selling second-hand and recycled items, such as accessories, 
+          household tools, and much more. Users can browse and purchase a variety of products through the platform. 
+          Admins have the ability to manage and organize the products available for sale. Even users without an account 
+          can explore the products offered, making it an accessible platform for everyone interested in sustainable shopping.
+          </p>
+          <div className="my-3 flex gap-5 max-md:block">
+            <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Technology</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                HTML
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                CSS
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                JavaScript
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                PHP
+              </li>
+            </div>
+            <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Framework</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Bootstrap 5
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Laravel
+              </li>
+            </div>
+            <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Local Web Server</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                XAMPP
+              </li>
+            </div>
+            <div className="w-1/4 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Action</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Load Data
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Delete Data
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Insert Data
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Update Data
+              </li>
+            </div>
+          </div>
+        </div>
+        <a href="https://github.com/MustankLee/Recycon" className="w-full flex justify-end cursor-pointer">
+          <p className="p-2 rounded-md btn-shdow font-semibold bg-white">
+             View Code
+          </p>
+        </a>
+      </div>
+
       <div className="bg-blue-100 drop-shadow-md rounded-md p-3 mt-5 mb-10">
         <div className="flex gap-4">
           <div>
