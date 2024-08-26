@@ -24,6 +24,11 @@ import Pro_19 from "../../Assets/Project-6.1.jpeg";
 import Pro_20 from "../../Assets/Project-6.2.jpeg";
 import Pro_21 from "../../Assets/Project-6.3.jpeg";
 import Pro_22 from "../../Assets/Project-6.4.jpeg";
+import pro_23 from "../../Assets/Project-7.1.png";
+import pro_24 from "../../Assets/Project-7.2.png";
+import pro_25 from "../../Assets/Project-7.3.png";
+import pro_26 from "../../Assets/Project-7.4.png";
+
 
 export default function Projects() {
   return (
@@ -37,6 +42,82 @@ export default function Projects() {
       >
         <BsArrowUpSquareFill />
       </a>
+
+      <div className="bg-blue-100 drop-shadow-md rounded-md p-3 mt-5 mb-10">
+        <div className="flex gap-4">
+          <div>
+            <img src={pro_23} alt="" className="w-screen rounded-md" />
+          </div>
+          <div>
+            <img src={pro_24} alt="" className="w-screen rounded-md" />
+          </div>
+        </div>
+        <div className="h-4"></div>
+        <div className="flex gap-4">
+          <div>
+            <img src={pro_25} alt="" className="w-screen rounded-md" />
+          </div>
+          <div>
+            <img src={pro_26} alt="" className="w-screen rounded-md" />
+          </div>
+        </div>
+        <div className="text-black">
+          <h3 className="font-semibold mt-2">
+            Educom
+          </h3>
+          <p className="text-justify">
+          This web application is designed to display and visualize company sales data through interactive dashboards. 
+          The primary focus is on transforming raw data into meaningful visual representations that support decision-making 
+          and enhance service quality. The process involves applying data visualization techniques, exploratory data analysis (EDA), 
+          and publishing interactive dashboards using Tableau Desktop/Public. These dashboards provide a dynamic and insightful way to 
+          explore data, helping businesses to better understand their sales performance and make informed decisions.
+          </p>
+          <div className="my-3 flex gap-5 max-md:block">
+            <div className="w-1/3 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Technology</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                HTML
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                CSS
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                JavaScript
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Tableau
+              </li>
+            </div>
+            <div className="w-1/3 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Framework</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                React JS
+              </li>
+            </div>
+            <div className="w-1/3 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Action</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Interactive Chart
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Visualization Data
+              </li>
+            </div>
+          </div>
+        </div>
+        <a href="https://github.com/MustankLee/Educom/tree/master" className="w-full flex justify-end cursor-pointer">
+          <p className="p-2 rounded-md btn-shdow font-semibold bg-white">
+             View Code
+          </p>
+        </a>
+      </div>
 
       <div className="bg-blue-100 drop-shadow-md rounded-md p-3 mt-5 mb-10">
         <div className="flex gap-4">
