@@ -15,7 +15,7 @@ export default function Skills() {
           </h3>
           <div className="flex gap-5 my-3 max-md:block">
             <div className="bg-white drop-shadow-md p-2 rounded-md w-1/3 max-md:w-full max-md:my-2">
-              <h3 className="font-semibold">Programming Language</h3>
+              <h3 className="font-semibold">Programming and Markup Language</h3>
               <div className="resp-crd-skl">
                 <p className="flex items-center bg-white drop-shadow-lg p-1 rounded-md w-max">
                   <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
@@ -32,6 +32,10 @@ export default function Skills() {
                 <p className="flex items-center bg-white drop-shadow-lg p-1 rounded-md w-max">
                   <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
                   PHP
+                </p>
+                <p className="flex items-center bg-white drop-shadow-lg p-1 rounded-md w-max">
+                  <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                  Python
                 </p>
                 <p className="flex items-center bg-white drop-shadow-lg p-1 rounded-md w-max">
                   <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
@@ -136,6 +140,14 @@ export default function Skills() {
         </h3>
         <div className="bg-white drop-shadow-md p-2 rounded-md my-3">
           <div className="">
+            <p className="flex items-center my-2 bg-white drop-shadow-lg p-1 rounded-md w-max">
+              <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+              Coursera (Google), Crash Course on Python
+            </p>
+            <p className="flex items-center my-2 bg-white drop-shadow-lg p-1 rounded-md w-max">
+              <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+              GreatNusa, Unified Modelling Language (UML) using Visual Paradigm
+            </p>
             <p className="flex items-center my-2 bg-white drop-shadow-lg p-1 rounded-md w-max">
               <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
               HackerRank, SQL Basic
