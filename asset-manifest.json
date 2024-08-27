@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Oric/static/css/main.d139a05b.css",
-    "main.js": "/Oric/static/js/main.85dde7db.js",
+    "main.js": "/Oric/static/js/main.07a53735.js",
     "static/media/project-2.1.png": "/Oric/static/media/project-2.1.c48f0ae72c49625f8fa6.png",
     "static/media/ERD.png": "/Oric/static/media/ERD.a3612f9038cd7919fb5c.png",
     "static/media/project-3.4.jpg": "/Oric/static/media/project-3.4.f563d7ea257c757e16c4.jpg",
@@ -13,9 +13,12 @@
     "static/media/Project-7.3.png": "/Oric/static/media/Project-7.3.f1ad603be6a6665ca372.png",
     "static/media/Project-5.3.jpeg": "/Oric/static/media/Project-5.3.7c6a9a71b2377abcdf88.jpeg",
     "static/media/SDMeth.jpg": "/Oric/static/media/SDMeth.8262c7638b5f88389537.jpg",
+    "static/media/Project-8.2.png": "/Oric/static/media/Project-8.2.332b59d8cb4d9b5cdfbb.png",
+    "static/media/Project-8.3.png": "/Oric/static/media/Project-8.3.a78a93a2d25d5d9d115d.png",
     "static/media/project-3.3.jpg": "/Oric/static/media/project-3.3.42fe3a23d88309d3ff39.jpg",
     "static/media/project-1.2.png": "/Oric/static/media/project-1.2.5f53df03fd74bf5c011b.png",
     "static/media/project-3.1.jpg": "/Oric/static/media/project-3.1.cc52e21ea175efa64837.jpg",
+    "static/media/Project-8.1.png": "/Oric/static/media/Project-8.1.a3eca5b3b3eb455967a8.png",
     "static/media/Project-5.4.jpeg": "/Oric/static/media/Project-5.4.5f25d71ed4e8e947db63.jpeg",
     "static/media/project-1.png": "/Oric/static/media/project-1.3d4650d8648c5387fbb0.png",
     "static/media/Project-7.1.png": "/Oric/static/media/Project-7.1.cca6288c173380d33a6b.png",
@@ -33,6 +36,7 @@
     "static/media/Project-6.2.jpeg": "/Oric/static/media/Project-6.2.8be7d87d221912a1cac2.jpeg",
     "static/media/WA.webp": "/Oric/static/media/WA.816e053c4fa8f17d002f.webp",
     "static/media/Project-5.1.jpeg": "/Oric/static/media/Project-5.1.9b752bdb3022e3ea2b33.jpeg",
+    "static/media/Project-8.4.png": "/Oric/static/media/Project-8.4.3c9c96cf7eaedb800624.png",
     "static/media/Logo_BNEC.png": "/Oric/static/media/Logo_BNEC.d3da6b4414f0b3c8904b.png",
     "static/media/Gmail.png": "/Oric/static/media/Gmail.4f10d6dbd55f9ac499cb.png",
     "static/media/Logo_HIMTI.png": "/Oric/static/media/Logo_HIMTI.ea968883914e23ca850d.png",
@@ -41,10 +45,10 @@
     "static/media/LINE.webp": "/Oric/static/media/LINE.36efa45252d89a27b683.webp",
     "index.html": "/Oric/index.html",
     "main.d139a05b.css.map": "/Oric/static/css/main.d139a05b.css.map",
-    "main.85dde7db.js.map": "/Oric/static/js/main.85dde7db.js.map"
+    "main.07a53735.js.map": "/Oric/static/js/main.07a53735.js.map"
   },
   "entrypoints": [
     "static/css/main.d139a05b.css",
-    "static/js/main.85dde7db.js"
+    "static/js/main.07a53735.js"
   ]
 }
