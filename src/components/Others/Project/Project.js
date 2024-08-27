@@ -28,6 +28,10 @@ import pro_23 from "../../Assets/Project-7.1.png";
 import pro_24 from "../../Assets/Project-7.2.png";
 import pro_25 from "../../Assets/Project-7.3.png";
 import pro_26 from "../../Assets/Project-7.4.png";
+import pro_27 from "../../Assets/Project-8.1.png";
+import pro_28 from "../../Assets/Project-8.2.png";
+import pro_29 from "../../Assets/Project-8.3.png";
+import pro_30 from "../../Assets/Project-8.4.png";
 
 
 export default function Projects() {
@@ -113,6 +117,95 @@ export default function Projects() {
           </div>
         </div>
         <a href="https://github.com/MustankLee/Educom/tree/master" className="w-full flex justify-end cursor-pointer">
+          <p className="p-2 rounded-md btn-shdow font-semibold bg-white">
+             View Code
+          </p>
+        </a>
+      </div>
+
+      <div className="bg-blue-100 drop-shadow-md rounded-md p-3 mt-5 mb-10">
+        <div className="flex gap-4">
+          <div>
+            <img src={pro_27} alt="" className="w-screen rounded-md" />
+          </div>
+          <div>
+            <img src={pro_28} alt="" className="w-screen rounded-md" />
+          </div>
+        </div>
+        <div className="h-4"></div>
+        <div className="flex gap-4">
+          <div>
+            <img src={pro_29} alt="" className="w-screen rounded-md" />
+          </div>
+          <div>
+            <img src={pro_30} alt="" className="w-screen rounded-md" />
+          </div>
+        </div>
+        <div className="text-black">
+          <h3 className="font-semibold mt-2">
+            Mouse Commerce
+          </h3>
+          <p className="text-justify">
+          MouseCommerce is a Spring Boot project designed for fundamental CRUD operations related to mouse product management. 
+          This application provides a robust and user-friendly platform for managing essential product details such as price, name, 
+          category, description, and image. Utilizing Spring Boot for backend development, JPA/Hibernate for database interactions, 
+          and Thymeleaf for rendering HTML, MouseCommerce offers an efficient solution for maintaining and updating product information. 
+          The project is intended for those seeking a straightforward approach to product management within a Spring Boot environment, 
+          with the capability to create, read, update, and delete product records seamlessly.
+          </p>
+          <div className="my-3 flex gap-5 max-md:block">
+            <div className="w-1/3 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Technology</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                HTML
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                CSS
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                JavaScript
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Java
+              </li>
+            </div>
+            <div className="w-1/3 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Framework</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Spring Boot
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Bootstrap
+              </li>
+            </div>
+            <div className="w-1/3 bg-white shdow p-2 rounded-md text-black my-6 max-md:w-full">
+              <h3 className="font-semibold">Action</h3>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Create Data
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Read Data
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Delete Data
+              </li>
+              <li className="flex font-semibold items-center">
+                <CgCheckR className="mr-2 bg-yellow-400 rounded-sm" />
+                Update Data
+              </li>
+            </div>
+          </div>
+        </div>
+        <a href="https://github.com/MustankLee/MouseCommerce" className="w-full flex justify-end cursor-pointer">
           <p className="p-2 rounded-md btn-shdow font-semibold bg-white">
              View Code
           </p>
