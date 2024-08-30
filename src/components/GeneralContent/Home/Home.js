@@ -43,8 +43,7 @@ class Home extends Component {
         <div className="mt-8 w-full flex">
           <div className="text-justify">
             <p>
-                Rico Susanto was born in Bagansiapiapi. 
-                He completed his undergraduate education in 
+                Rico Susanto completed his undergraduate education in 
                 Computer Science at Binus University in 2024. Rico began his studies at 
                 Binus University in 2020, majoring in Information Technology with a 
                 specialization in databases. Driven by a deep passion for understanding 
